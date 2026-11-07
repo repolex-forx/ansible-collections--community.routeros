@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.routeros",
+  "versions": [
+    {
+      "commit": "82fd0bbe8ae336290800d8d8a133c92927ae825d",
+      "tag": "3.23.0",
+      "parsed_at": "2026-11-07T16:40:24.537266+00:00"
+    }
+  ]
+}
